@@ -9,7 +9,6 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import SideBar from './components/Sidebar';
 import './App.css';
 
 class App extends React.Component {
@@ -25,7 +24,6 @@ class App extends React.Component {
       <div className="app">
         <div id="outer-container">
           <Header />
-          <SideBar pageWrapId={"page-wrap"} outerContainerId={"App"} />
         </div>
         <div id="home"></div>
         <Landing />
