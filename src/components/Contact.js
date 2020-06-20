@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Contact() {
   return (
-    <div data-aos="flip-up" className='create-contact'>
-      <form action="https://formspree.io/xpzqgooj"
+    <div data-aos="zoom-in" className='create-contact'>
+      <form action="https://formspree.io/xdowdlnl"
         method="POST" id='create-contact-form'
       // onSubmit={(event) => { event.preventDefault() }}
       >

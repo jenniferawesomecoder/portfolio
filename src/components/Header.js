@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
       <a href="#home">
-        <p className="header-1">Raul Jiminian</p>
+        <p className="header-1">Jennifer Miller</p>
       </a>
       <a className="hide-display" href="#about">
         <p className="header-2">About</p>

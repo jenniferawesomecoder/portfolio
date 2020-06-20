@@ -4,10 +4,10 @@ export default function Landing() {
   return (
     <div className="landing">
       <div className="landing-content">
-        <h1>Raul E. Jiminian</h1>
+        <h1>Jennifer Miller</h1>
         <div className="popEffect">
           <span>Software Engineer</span>
-          <span>Full Stack Developer</span>
+          <span>Front End Developer</span>
           <span>Continuously Learning</span>
           <span>Problem Solver</span>
           <span>Team Player</span>
