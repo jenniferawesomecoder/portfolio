@@ -44,7 +44,7 @@ export default function About() {
               </a>
             </div>
             <div className="about-content-right">
-              <a href="mailto:millerarcher@me.com" target="_blank" rel="noopener noreferrer">
+              <a href="mailto:jmillerarcher@me.com" target="_blank" rel="noopener noreferrer">
                 <img src="https://res.cloudinary.com/de0lfihzm/image/upload/v1576807545/iconmonstr-email-2_gbfl3c.svg" alt="email icon" />
                 <p>Email</p>
               </a>
