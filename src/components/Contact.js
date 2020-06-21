@@ -3,7 +3,7 @@ import React from 'react'
 export default function Contact() {
   return (
     <div data-aos="zoom-in" className='create-contact'>
-      <form action="https://formspree.io/xdowdlnl"
+      <form action="https://formspree.io/xzbjvken"
         method="POST" id='create-contact-form'
       // onSubmit={(event) => { event.preventDefault() }}
       >
