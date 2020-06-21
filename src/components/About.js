@@ -14,7 +14,7 @@ export default function About() {
               {/* <img data-aos="zoom-in" src={RJPhoto} alt="About me description" /> */}
             </div>
             <div data-aos="fade-left" className="mainB">
-              <p>I am a full-stack software engineer with a deep interest in solving complex problems.
+              <p>I am a full-stack software engineer with a deep interest in front-end development.
               My previous career as a government contractor focused on  Technology - Software team, has taught me to be detail-oriented, resilient and analytical.
               I started to become passionate about developing early in my contracting career soon as I was exposed to the many different types of software development  contracts.
               I was fascinated by the disruptive technologies providing solutions to what was previously complex problems.
@@ -44,7 +44,7 @@ export default function About() {
               </a>
             </div>
             <div className="about-content-right">
-              <a href="mailto:dogdoglovernumerouno1985@gmail.com" target="_blank" rel="noopener noreferrer">
+              <a href="mailto:millerarcher@me.com" target="_blank" rel="noopener noreferrer">
                 <img src="https://res.cloudinary.com/de0lfihzm/image/upload/v1576807545/iconmonstr-email-2_gbfl3c.svg" alt="email icon" />
                 <p>Email</p>
               </a>
