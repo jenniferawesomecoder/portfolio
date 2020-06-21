@@ -26,7 +26,7 @@ export default function About() {
           </div>
           <div data-aos="fade-up" className="mainC">
             <div className="about-content-right top">
-              <a href="https://www.linkedin.com/in/jennifer-miller-software-engineer-ror-java-react-redux-7509621/" target="_blank" rel="noopener noreferrer">
+              <a href="https://docdro.id/p0BXgmy" target="_blank" rel="noopener noreferrer">
                 <img src="https://res.cloudinary.com/de0lfihzm/image/upload/v1576809004/iconmonstr-note-14_mg5i0k.svg" alt="resume" />
                 <p>Resume</p>
               </a>
