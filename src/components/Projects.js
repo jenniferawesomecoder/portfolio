@@ -114,18 +114,18 @@ export default function Projects() {
 
       <div data-aos="fade-up" className="project-container-right">
         <div className="project-span-container">
-          <span>Cryptoapp</span>
+          <span>Project Plan</span>
         </div>
         <div data-aos="zoom-in" className="project-tilt-container">
           <Tilt className="Tilt" options={{ max: 25 }} style={{ height: 300, width: 500 }} >
             <div className="Tilt-inner">
-              <img className="tilt-img" src="https://media.giphy.com/media/Ma6uNXjSrTOga7bung/giphy.gif" alt="verdure demo" />
+              <img className="tilt-img" src="https://media.giphy.com/media/Y1YbrCMXb22KYAZWfe/giphy.gif" alt="verdure demo" />
             </div>
             <div className="hover-site">
-              <a href="https://github.com/PrinceJudah85/Undisclosed" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/jenniferawesomecoder/MarioProjectPlan-React-App" target="_blank" rel="noopener noreferrer">
                 <i className="devicon-github-plain-wordmark colored-project"></i>
               </a>
-              <a href="http://pngimg.com/imgs/logos/bitcoin/" target="_blank" rel="noopener noreferrer">
+              <a href="https://projectplan-30217.web.app/signin" target="_blank" rel="noopener noreferrer">
                 <img className="live-site-img" src={LiveSite} alt="live site" />
               </a>
             </div>
@@ -135,9 +135,7 @@ export default function Projects() {
           <div className="project-content-container-sub">
             <div data-aos="fade-right">
               <p className="p-padding">
-                My cryptoapp is a dream come true for crypto fans. See your cryptocurrencies and trade coins with other users!
-                Cryptoapp is a cryptocurrency trading simulator. See top cryptocurrency rates, from coin  marketcap API. Cryptoapp allows the user to log in and see other users and the cryptocurrencies that they are trading.
-                You can click on a card to make a trade!
+                This app can be used to create a list of projects.  Users can signup, and create their projects and, get notifications when a project is created.
               </p>
             </div>
             <div data-aos="zoom-out-down" className="project-content-right-container">
@@ -151,14 +149,14 @@ export default function Projects() {
                 <i className="devicon-react-original-wordmark colored"></i>
               </div>
               <div className="project-content-right">
-                <i className="devicon-express-original-wordmark colored"></i>
+                 <i class="devicon-github-plain"></i>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div data-aos="fade-up" className="project-container-left">
+      {/*<div data-aos="fade-up" className="project-container-left">
         <div className="project-span-container-left">
           <span>Canvas</span>
         </div>
@@ -234,7 +232,7 @@ export default function Projects() {
             </div>
           </div>
         </div>
-      </div>
+      </div>*/}
     </div>
   )
 }
