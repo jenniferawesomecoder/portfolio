@@ -351,7 +351,7 @@ header p:hover {
 
 .about-content p {
   padding: 30px 30px 0 30px;;
-  text-align: right;
+  text-align: left;
   margin-right: 20px;
   font-size: 1.2em;
 }
@@ -599,6 +599,7 @@ header p:hover {
 
 .p-padding {
   padding: 0 20px 10px 20px;
+  text-align: left;
 }
 
 .project-content-right {

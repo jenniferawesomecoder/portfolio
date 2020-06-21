@@ -110,6 +110,9 @@ export default function Projects() {
               <div className="project-content-right">
                 <i className="devicon-bootstrap-plain-wordmark colored"></i>
               </div>
+              <div className="project-content-right">
+                <i className="devicon-postgresql-plain-wordmark colored"></i>
+              </div>
             </div>
           </div>
         </div>
@@ -153,6 +156,9 @@ export default function Projects() {
               </div>
               <div className="project-content-right">
                  <i class="devicon-github-plain"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-postgresql-plain-wordmark colored"></i>
               </div>
             </div>
           </div>
@@ -206,6 +212,9 @@ export default function Projects() {
               <div className="project-content-right">
                 <i className="devicon-bootstrap-plain-wordmark colored"></i>
               </div>
+              <div className="project-content-right">
+                <i className="devicon-postgresql-plain-wordmark colored"></i>
+              </div>
             </div>
           </div>
         </div>
@@ -244,6 +253,21 @@ export default function Projects() {
               </div>
               <div className="project-content-right">
                 <i className="devicon-rails-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-ruby-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-postgresql-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-bootstrap-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-facebook-plain colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-google-plain colored"></i>
               </div>
             </div>
           </div>
