@@ -25,7 +25,7 @@ export default function Projects() {
               <a href="https://github.com/jenniferawesomecoder/Recipes-javascript" target="_blank" rel="noopener noreferrer">
                 <i className="devicon-github-plain-wordmark colored-project"></i>
               </a>
-              <a href="https://github.com/jenniferawesomecoder/Recipes-javascript" target="_blank" rel="noopener noreferrer">
+              <a href="https://jenniferawesomecoder.github.io/Recipes-frontend/" target="_blank" rel="noopener noreferrer">
                 <img className="live-site-img" src={LiveSite} alt="live site" />
               </a>
             </div>
