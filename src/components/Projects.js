@@ -25,7 +25,7 @@ export default function Projects() {
               <a href="https://github.com/jenniferawesomecoder/Recipes-javascript" target="_blank" rel="noopener noreferrer">
                 <i className="devicon-github-plain-wordmark colored-project"></i>
               </a>
-              <a href="http://verdure.surge.sh/" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/jenniferawesomecoder/Recipes-javascript" target="_blank" rel="noopener noreferrer">
                 <img className="live-site-img" src={LiveSite} alt="live site" />
               </a>
             </div>
@@ -76,7 +76,7 @@ export default function Projects() {
               <a href="https://github.com/jenniferawesomecoder/Quotes-React-Redux" target="_blank" rel="noopener noreferrer">
                 <i className="devicon-github-plain-wordmark colored-project"></i>
               </a>
-              <a href="http://riverside-art.surge.sh/" target="_blank" rel="noopener noreferrer">
+              <a href="https://jenniferawesomecoder.github.io/Quotes-React-Redux/" target="_blank" rel="noopener noreferrer">
                 <img className="live-site-img" src={LiveSite} alt="live site" />
               </a>
             </div>
@@ -106,6 +106,9 @@ export default function Projects() {
               </div>
               <div className="project-content-right">
                 <i className="devicon-rails-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-bootstrap-plain-wordmark colored"></i>
               </div>
             </div>
           </div>
