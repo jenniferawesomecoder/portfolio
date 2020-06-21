@@ -211,20 +211,20 @@ export default function Projects() {
         </div>
       </div>
 
-      {/*<div data-aos="fade-up" className="project-container-left">
+      <div data-aos="fade-up" className="project-container-left">
         <div className="project-span-container-left">
-          <span>Canvas</span>
+          <span>Watchlists</span>
         </div>
         <div data-aos="zoom-in" className="project-tilt-container">
           <Tilt className="Tilt" options={{ max: 25 }} style={{ height: 300, width: 500 }} >
             <div className="Tilt-inner">
-              <img className="tilt-img" src="https://media.giphy.com/media/jpWvY2Qu7gXbyzJyH3/giphy.gif" alt="verdure demo" />
+              <img className="tilt-img" src="https://media.giphy.com/media/m9jMiL1XIOFnpl8RNX/giphy.gif" alt="verdure demo" />
             </div>
             <div className="hover-site">
-              <a href="https://github.com/RaulJiminian/project-two-seedling" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/jenniferawesomecoder/Rails-Portofolio-Project" target="_blank" rel="noopener noreferrer">
                 <i className="devicon-github-plain-wordmark colored-project"></i>
               </a>
-              <a href="http://canvas-museums.surge.sh/" target="_blank" rel="noopener noreferrer">
+              <a href="https://watchlistproject.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                 <img className="live-site-img" src={LiveSite} alt="live site" />
               </a>
             </div>
@@ -233,7 +233,7 @@ export default function Projects() {
         <div className="project-content-container">
           <div className="project-content-container-sub">
             <div data-aos="fade-right">
-              <p className="p-padding">Canvas is a web app that serves as a museum walkthrough and focuses on providing information on a vast array of artwork within The Rijksmuseum. The Rijksmuseam offers a representative overview of Dutch art and history from the Middle Ages onwards, and of major aspects of European and Asian art. Using the Rijksmuseum API, we are able to grab a whole host of information valuable to understanding various pieces of artwork.</p>
+              <p className="p-padding">The watchlists app helps you keep track of your favorite and must-watch TV shows, and create lists to manage and organize those shows.  You can create different Watchlists to keep tract of shows you are watching, as well as shows you are interested in watching and, add or delete TV shows to your watchlists.</p>
             </div>
             <div data-aos="zoom-out-down" className="project-content-right-container">
               <div className="project-content-right top">
@@ -243,14 +243,14 @@ export default function Projects() {
                 <i className="devicon-css3-plain-wordmark colored"></i>
               </div>
               <div className="project-content-right">
-                <i className="devicon-react-original-wordmark colored"></i>
+                <i className="devicon-rails-plain-wordmark colored"></i>
               </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div data-aos="fade-up" className="project-container-right">
+      {/*<div data-aos="fade-up" className="project-container-right">
         <div className="project-span-container">
           <span>Good News!</span>
         </div>
