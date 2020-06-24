@@ -15,7 +15,7 @@ export default function Header() {
       <a className="hide-display" href="#contact">
         <p className="header-4">Contact</p>
       </a>
-      <a className="hide-display" href="https://docdro.id/p0BXgmy" target="_blank" rel="noopener noreferrer">
+      <a className="hide-display" href="https://docdro.id/vrjma0p" target="_blank" rel="noopener noreferrer">
         <p className="header-5">Resume</p>
       </a>
     </header>
