@@ -1,5 +1,7 @@
 import React from 'react';
 
+import ProfilePic from '../assets/jennifer.png';
+
 export default function About() {
   return (
     <div data-aos="fade-up" className="about">
@@ -10,7 +12,7 @@ export default function About() {
         <div className="about-content-contact">
           <div className="mainAA">
             <div data-aos="fade-right" className="about-content-right-container mainA">
-              <img data-aos="zoom-in" src="https://media-exp1.licdn.com/dms/image/C4D03AQFjyLgxTr5bZA/profile-displayphoto-shrink_800_800/0?e=1597881600&v=beta&t=aaSK7TXjs95Kv-QRomRA2IrDquHX4yB8ZQ1EMOOMbOE" alt="About me description" />
+              <img data-aos="zoom-in" src={ProfilePic} alt="About me description" />
               {/* <img data-aos="zoom-in" src={RJPhoto} alt="About me description" /> */}
             </div>
             <div data-aos="fade-left" className="mainB">
