@@ -274,6 +274,59 @@ export default function Projects() {
         </div>
       </div>
 
+      <div data-aos="fade-up" className="project-container-left">
+        <div className="project-span-container-left">
+          <span>Veganite</span>
+        </div>
+        <div data-aos="zoom-in" className="project-tilt-container">
+          <Tilt className="Tilt" options={{ max: 25 }} style={{ height: 300, width: 500 }} >
+            <div className="Tilt-inner">
+              <img className="tilt-img" src="https://media.giphy.com/media/URkR6tfLbuKPkJrVss/giphy.gif" alt="verdure demo" />
+            </div>
+            <div className="hover-site">
+              <a href="https://github.com/jenniferawesomecoder/Veganite" target="_blank" rel="noopener noreferrer">
+                <i className="devicon-github-plain-wordmark colored-project"></i>
+              </a>
+              <a href="https://jenniferawesomecoder.github.io/vegan/" target="_blank" rel="noopener noreferrer">
+                <img className="live-site-img" src={LiveSite} alt="live site" />
+              </a>
+            </div>
+          </Tilt>
+        </div>
+        <div className="project-content-container">
+          <div className="project-content-container-sub">
+            <div data-aos="fade-right">
+              <p className="p-padding">
+                Veganite is a web app that, through member generated content, is a one-stop-shop for vegan and wellness practitioners; with access to things like vegan recipes, holistic exercises, wellness blogs, and meetups. The goal is to help people transition into a healthier and sustainable form of living. Members will be able to save their favorite posts, recipes, and exercises with a click of a button!
+              </p>
+            </div>
+            <div data-aos="zoom-out-down" className="project-content-right-container">
+              <div className="project-content-right top">
+                <i className="devicon-html5-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-css3-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-react-original-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-rails-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-ruby-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-postgresql-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-bootstrap-plain-wordmark colored"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       {/*<div data-aos="fade-up" className="project-container-right">
         <div className="project-span-container">
           <span>Good News!</span>
