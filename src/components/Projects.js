@@ -14,6 +14,59 @@ export default function Projects() {
 
       <div data-aos="fade-up" className="project-container-right">
         <div className="project-span-container">
+          <span>Github GraphQL API</span>
+        </div>
+        <div data-aos="zoom-in" className="project-tilt-container">
+          <Tilt className="Tilt" options={{ max: 25 }} style={{ height: 300, width: 500 }} >
+            <div className="Tilt-inner">
+              <img className="tilt-img" src="https://media.giphy.com/media/F1zlbePdWhMUNxb02m/giphy.gif" alt="verdure demo" />
+            </div>
+            <div className="hover-site">
+              <a href="https://github.com/jenniferawesomecoder/github-graphql-api" target="_blank" rel="noopener noreferrer">
+                <i className="devicon-github-plain-wordmark colored-project"></i>
+              </a>
+              <a href="https://jenniferawesomecoder.github.io/github-graphql-api/" target="_blank" rel="noopener noreferrer">
+                <img className="live-site-img" src={LiveSite} alt="live site" />
+              </a>
+            </div>
+          </Tilt>
+        </div>
+        <div className="project-content-container">
+          <div className="project-content-container-sub">
+            <div data-aos="fade-right">
+              <p className="p-padding">
+                I built a simple interactive web app with React that will list a Github repository’s dependencies and their status.
+                You should be able to point it to any repository and the UI would list dependencies that are: outdated, current, vulnerable, etc.
+                A sample report would include: Package name Current Latest Outdated Vulnerable The UI also handles error scenarios, for example when a project or its dependencies could not be listed.
+                I used Graphql to fetch data from the GitHub dependency graph and used Apollo React in order to integrate Graphql with React components.
+              </p>
+            </div>
+            <div data-aos="zoom-out-down" className="project-content-right-container">
+              <div className="project-content-right top">
+                <i className="devicon-html5-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-css3-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-bootstrap-plain-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-javascript-plain colored"></i>
+              </div>
+              <div className="project-content-right">
+                <i className="devicon-react-original-wordmark colored"></i>
+              </div>
+              <div className="project-content-right">
+                 <i class="devicon-github-plain"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div data-aos="fade-up" className="project-container-right">
+        <div className="project-span-container">
           <span>Universal Recipe Book</span>
         </div>
         <div data-aos="zoom-in" className="project-tilt-container">
