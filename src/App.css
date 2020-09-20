@@ -353,7 +353,7 @@ header p:hover {
   padding: 30px 30px 0 30px;;
   text-align: left;
   margin-right: 20px;
-  font-size: 1.2em;
+  font-size: 16px;
 }
 
 .about-content-contact {
@@ -600,6 +600,7 @@ header p:hover {
 .p-padding {
   padding: 0 20px 10px 20px;
   text-align: left;
+  font-size: 14px;
 }
 
 .project-content-right {

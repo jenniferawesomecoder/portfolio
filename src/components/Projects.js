@@ -35,10 +35,9 @@ export default function Projects() {
           <div className="project-content-container-sub">
             <div data-aos="fade-right">
               <p className="p-padding">
-                I built a simple interactive web app with React that will list a Github repository’s dependencies and their status.
-                You should be able to point it to any repository and the UI would list dependencies that are: outdated, current, vulnerable, etc.
-                A sample report would include: Package name Current Latest Outdated Vulnerable The UI also handles error scenarios, for example when a project or its dependencies could not be listed.
-                I used Graphql to fetch data from the GitHub dependency graph and used Apollo React in order to integrate Graphql with React components.
+                A simple interactive web app that will list a Github repository’s dependencies and their status.
+                One should be able to point it to any repository and the UI would list dependencies that are: outdated, current, vulnerable, etc.
+                Used Graphql to fetch data from the GitHub dependency graph and used Apollo React in order to integrate Graphql with React components.
               </p>
             </div>
             <div data-aos="zoom-out-down" className="project-content-right-container">
